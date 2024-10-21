@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://anctarter.github.io/anctarter.txt.gz
+Sitemap: https://anctarter.github.io/app/anctarter.txt.gz
+Sitemap: https://anctarter.github.io/assets/anctarter.txt.gz
+Sitemap: https://anctarter.github.io/css/anctarter.txt.gz
+Sitemap: https://anctarter.github.io/includes/anctarter.txt.gz
+Sitemap: https://anctarter.github.io/item/anctarter.txt.gz
+Sitemap: https://anctarter.github.io/src/anctarter.txt.gz
